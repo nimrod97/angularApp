@@ -1,5 +1,5 @@
 # AngularApp
-
+A simple shopping list app - you have a list of 10 products with their id's, names and prices and you can edit them and change them for your specific desires.</br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
 ## Development server
